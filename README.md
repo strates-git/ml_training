@@ -9,7 +9,7 @@ A carefully-curated repository of Artificial Intelligence (AI), Machine Learning
 
 -----------------------------------------------------------------------------------
 
-## Project Overview
+## 1. Project Overview
 The Data Science Boot Camp (DSBC) team has spent years developing tools and training materials for Applied Math and Data Science. In this project you will find the following tools.
 * ["5 Questions a Data Scientist Should Ask Their Customer"](https://github.com/pfroysdon/books/blob/master/math_notes/DS_Questions.pdf) is a one-page list of questions any data scientist should have with them to define the problem they are trying to solve and set expectations with their customer.
 * ["Notes on ..."](https://github.com/dsbc2020/ml_training/tree/master/math_notes) these are cheat sheets on various topics of math for Machine Learning, e.g. algebra, probability theory, etc., as well as Machine Learning topics, e.g. linear regression, hypothesis testing, etc.
@@ -23,13 +23,13 @@ The Data Science Boot Camp (DSBC) team has spent years developing tools and trai
 * ["Examples"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Examples)  is a series of notebooks that most folks will find useful for a variety of real-life applications of Data Science.
 
 
-## The DSBC Approach
+## 2. The DSBC Approach
 <p align="center">
 	<img width="300" src="https://github.com/dsbc2020/ml_training/blob/master/media/bottom-up.png">
 </p>
 The DSBC team teaches AI/ML, and more broadly Data Science, with two approaches:
 
-### "Top-Down" Approach
+### 2.1 "Top-Down" Approach
 In the Top-Down approach, you don't need to know the math, or be a deep expert in Python.
 We will teach you the tools, using industry best practices and rules-of-thumb, so that you will be a solid contributing member of a Data Science team. 
 
@@ -38,7 +38,7 @@ To get started, we recommend the following self-paced tutorials performed in ord
 2. ["Machine Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Machine-Learning-in-1-day).
 3. ["Deep Learning in 1 day"](https://github.com/dsbc2020/ml_training/tree/master/notebooks/Deep-Learning-in-1-day).
 
-### "Bottom-Up" Approach
+### 2.2 "Bottom-Up" Approach
 In the Bottom-Up approach, we assume that you already have a solid foundation in math and/or computer science.
 We will teach you the algorithms, both how to manipulate and optimize them for your application.
 With these powerful skills, you will be a technical leader enabling the full potential of a Data Science team.
@@ -50,7 +50,7 @@ To get started, we recommend that you review the following:
 
 
 
-## New to Python and Jupyter Notebooks?
+## 3. New to Python and Jupyter Notebooks?
 <p align="center">
 	<img width="450" src="https://github.com/dsbc2020/ml_training/blob/master/media/python_notebook.png">
 </p>
@@ -58,11 +58,11 @@ To get started, we recommend that you review the following:
 Have you heard about Jupyter Notebooks, but don't know how to get started? [Here](https://github.com/dsbc2020/ml_training/blob/master/notebooks/README.md) is a quick tutorial.
 
 
-## License
+## 4. License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-## Acknowledgments
+## 5. Acknowledgments
 This repo was built using material from our private industry and academic experience, as well as material borrowed from:
 * UCLA ECE 239AS.
 * UPenn CIS 229.
