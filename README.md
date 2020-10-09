@@ -64,13 +64,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 5. Acknowledgments
 This repo was built using material from our private industry and academic experience, as well as material borrowed from:
-* UCLA ECE 239AS.
-* UPenn CIS 229.
-* UPenn CIS 520.
-* Stanford CS 229.
-* Python Data Science Handbook.
-* Machine Learning Mastery.
-* Towards Data Science.
+* Kao - UCLA ECE 239AS.
+* Eaton - UPenn CIS 419/519.
+* Ungar - UPenn CIS 520.
+* Ng - Stanford CS 229.
+* Andrew Ng - Machine Learning Yearning
+* Robert Tibshirani and Trevor Hastie - An Introduction to Statistical Learning with Applications in R.
+* Jake VanderPlas - Python Data Science Handbook.
+* Jason Brownlee - Machine Learning Mastery.
+* Towards Data Science (various articles).
+* Medium (various articles).
 * Randy Olson's data analysis and machine learning projects.
 * Many thanks to [Andreas Mueller](http://amueller.github.io/) for some of his [examples](https://github.com/amueller/scipy_2015_sklearn_tutorial) in the Machine Learning section. We drew inspiration from several of his excellent examples.
 * Many thanks to Kaggle for the datasets.
