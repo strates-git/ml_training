@@ -42,6 +42,9 @@ The SARS-CoV-2 virus particle is [70-90 nanometers](https://www.ncbi.nlm.nih.gov
 
 If 0.3 micrometers = 300 nanometers, then **N-95 masks cannot filter items smaller than 300 nanometers**, therefore **N-95 masks cannot filter SARS-CoV-2 virus particles**.  Simple math (300/90=3.33) shows us that COVID-19 particles are **3 times smaller** than what a "premium" mask (nevermind home-made masks) is capable of filtering. Most masks available to the public will not filter out COVID-19 particles.  Therefore a mask will not protect you, nor will it protect others.
 
+**A practical experiment** -- 
+When you use a can of spray paint, the odor you smell is volatile organic compounds (VOCs), which are [less than 3 micrometers in size](https://www.cosatron.com/applications/volatile-organic-compound-control/), and in many cases [less than 50 nanometers](https://pubmed.ncbi.nlm.nih.gov/22168093/).  According to current research, even expensive charcoal-based filters are not be able to mask the odor caused by high VOC levels.  Notice that **these particles are smaller than the SARS-CoV-2 virus particle.**  The experiment: use a spray can, if you can smell the odor, your mask is ineffective agianst COVID-19.
+
 
 
 
