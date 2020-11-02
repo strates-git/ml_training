@@ -40,7 +40,7 @@
 # Thought of the Day
 The SARS-CoV-2 virus particle is [70-90 nanometers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045880/), and a single spray paint particle is [20-40 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html), and an N-95 mask filters particles larger than [0.3 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html).
 
-If 0.3 micrometers = 300 nanometers, then **N-95 masks cannot filter items smaller than 300 nanometers**, therefore **N-95 masks cannot filter SARS-CoV-2 virus particles**.  Simple math (300/90=3.33) shows us that COVID-19 particles are **3 times smaller** than what a "premium" mask (nevermind home-made masks) is capable of filtering. Most masks available to the public will not filter out COVID-19 particles.  Therefore it will not protect you, nor will it protect others.
+If 0.3 micrometers = 300 nanometers, then **N-95 masks cannot filter items smaller than 300 nanometers**, therefore **N-95 masks cannot filter SARS-CoV-2 virus particles**.  Simple math (300/90=3.33) shows us that COVID-19 particles are **3 times smaller** than what a "premium" mask (nevermind home-made masks) is capable of filtering. Most masks available to the public will not filter out COVID-19 particles.  Therefore a mask will not protect you, nor will it protect others.
 
 
 
