@@ -9,6 +9,11 @@ A carefully-curated repository of Artificial Intelligence (AI), Machine Learning
 
 -----------------------------------------------------------------------------------
 
+## Tip of the Day
+Check out our new [Reading Rack](https://github.com/dsbc2020/ml_training/blob/main/reading_rack), where we review the important literature in each sub-field of ML.  Here we tackle 10 papers a week so that we quickly learn the current state-of-the-art.  We will also add tutorials to see the papers applied using python or matlab code.
+
+
+
 ## 1. Project Overview
 The Data Science Boot Camp (DSBC) team has spent years developing tools and training materials for Applied Math and Data Science. In this project you will find the following tools.
 * ["5 Questions a Data Scientist Should Ask Their Customer"](https://github.com/pfroysdon/publications/blob/main/Math_Notes/DS_Questions.pdf) is a one-page list of questions any data scientist should have with them to define the problem they are trying to solve and set expectations with their customer.
