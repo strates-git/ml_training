@@ -10,7 +10,7 @@ A carefully-curated repository of Artificial Intelligence (AI), Machine Learning
 -----------------------------------------------------------------------------------
 
 ## Tip of the Day
-Check out our new [Reading Rack](https://github.com/dsbc2020/ml_training/blob/main/reading_rack), where we review the important literature in each sub-field of ML.  Here we tackle 10 papers a week so that we quickly learn the current state-of-the-art.  We will also add tutorials to see the papers applied using python or matlab code.
+Check out our new [Reading Rack](https://github.com/dsbc2020/ml_training/tree/master/reading_rack) where we review the important literature in each sub-field of ML.  Here we tackle 10 papers a week so that we quickly learn the current state-of-the-art.  We will also add tutorials to see the papers applied to real problems using python or matlab code.
 
 
 
