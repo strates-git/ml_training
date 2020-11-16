@@ -4,7 +4,7 @@
 </p>
 
 
-**---UPDATED November 2, 2020---**
+**---UPDATED November 16, 2020---**
 
 
 # Table of Contents
@@ -30,26 +30,22 @@
 
 [11. Open for Business?](#Open_for_Business)
 
-[12. Great videos to watch](#Great_videos)
+[12. Masks](#Masks)
 
-[13. Conclusion](#Conclusion)
+[13. Great videos to watch](#Great_videos)
+
+[14. Conclusion](#Conclusion)
 
 [References](#References)
 
 
 # Thought of the Day
-The SARS-CoV-2 virus particle is [70-90 nanometers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045880/), and a single spray paint particle is [20-40 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html), and an N-95 mask filters particles larger than [0.3 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html).
-
-If 0.3 micrometers = 300 nanometers, then **N-95 masks cannot filter items smaller than 300 nanometers**, therefore **N-95 masks cannot filter SARS-CoV-2 virus particles**.  Simple math (300/90=3.33) shows us that COVID-19 particles are **3 times smaller** than what a "premium" mask (nevermind home-made masks) is capable of filtering. Most masks available to the public will not filter out COVID-19 particles.  Therefore a mask will not protect you, nor will it protect others.
-
-**A practical experiment** -- 
-When you use a can of spray paint, the odor you smell is volatile organic compounds (VOCs), which are [less than 3 micrometers in size](https://www.cosatron.com/applications/volatile-organic-compound-control/), and in many cases [less than 50 nanometers](https://pubmed.ncbi.nlm.nih.gov/22168093/).  According to current research, even expensive charcoal-based filters are not able to mask the odor caused by high VOC levels.  Notice that **these particles are nearly the same size as the SARS-CoV-2 virus particle.**  The experiment: use a spray can, if you can smell the odor, your mask is ineffective agianst COVID-19.
-
+**Dr. Fauci lead a Coronavirus research team at NIH in 2005** that published an article stating that ["Chloroquine has strong antiviral effects on SARS-Coronavirus infection"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/).  The article states that **Chloroquine is effective against both "infection and spread"**.  Recent research (11/11/2020) from NIH shows that [hyrdoxychloroquine is effective as a COVID-19 inhibitor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7656897/) (prophylactic). 
 
 
 
 # Preface
-We have been tracking this issue for the last 9 months using COVID-19 raw data obtained from the CDC and John's Hopkins. In summary we have found the following:
+We have been tracking this issue for the last 10 months using COVID-19 raw data obtained from the CDC and John's Hopkins. In summary we have found the following:
 
 - **Death toll:** Initially the CDC expected 520,000 deaths in the US; roughly 0.157% of the total US population.  As of September 16, the [death toll is 0.058% of the US population, or 37% of the initial estimates by the CDC](#COVID-19_Analysis) (however, the pandemic is not over yet). 
 - **Epidemic:** The [CDC and WHO define an epidemic threshold](#COVID-19_Analysis) as the week when the number of cases surpass 200 per week per 100,000 people.  In the example of California and Texas (the two most populous states), they are 53.7% and 64.3% below epidemic levels respectively, with the week of May 9 being the worst week of new cases.
@@ -680,9 +676,17 @@ Some questions to consider:
  - Could the lock-down have been more effective if everything was closed, e.g. grocery stores, mail/UPS service, etc?
  - How do you evaluate these both together and individually, and what are the risks?
 
+ 
+# 12. Masks <a name="Masks"/>
+The SARS-CoV-2 virus particle is [70-90 nanometers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045880/), and a single spray paint particle is [20-40 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html), and an N-95 mask filters particles larger than [0.3 micrometers](https://www.cdc.gov/niosh/nioshtic-2/00210447.html).
+
+If 0.3 micrometers = 300 nanometers, then **N-95 masks cannot filter items smaller than 300 nanometers**, therefore **N-95 masks cannot filter SARS-CoV-2 virus particles**.  Simple math (300/90=3.33) shows us that COVID-19 particles are **3 times smaller** than what a "premium" mask (nevermind home-made masks) is capable of filtering. Most masks available to the public will not filter out COVID-19 particles.  Therefore a mask will not protect you, nor will it protect others.
+
+**A practical experiment** -- 
+When you use a can of spray paint, the odor you smell is volatile organic compounds (VOCs), which are [less than 3 micrometers in size](https://www.cosatron.com/applications/volatile-organic-compound-control/), and in many cases [less than 50 nanometers](https://pubmed.ncbi.nlm.nih.gov/22168093/).  According to current research, even expensive charcoal-based filters are not able to mask the odor caused by high VOC levels.  Notice that **these particles are nearly the same size as the SARS-CoV-2 virus particle.**  The experiment: use a spray can, if you can smell the odor, your mask is ineffective agianst COVID-19. 
 
 
-# 12. Great Videos to Watch <a name="Great_videos"/>
+# 13. Great Videos to Watch <a name="Great_videos"/>
  - ["Exponential growth and epidemics"](https://youtu.be/Kas0tIxDvrg)
  - ["Understanding R nought | Khan Academy"](https://youtu.be/jKUGZvW99os)
  - ["Estimating actual COVID 19 cases (novel corona virus infections) in an area based on deaths"](https://youtu.be/mCa0JXEwDEk)
@@ -695,7 +699,7 @@ Some questions to consider:
  
 
 
-# 13. Conclusion <a name="Conclusion"/>
+# 14. Conclusion <a name="Conclusion"/>
 So why did we go through all of this trouble, and where are we on the Sigmoid curve?  Well, like any problem, we like to have as much data as possible to make good scientific decisions, and compare results where possible.  In this case, it is nice to compare COVID-19 to the common flu, SARS, MERS, etc.  As you will likely find, as we did, if you are younger than 60 [[44](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)], you may contract COVID-19 but are less likely to die of COVID-19.  However, it is advisable to closely follow the CDC guidelines [[45](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)] of social distancing and personal health precautions.  
 
 The IHME COVID-19 SIR models can be found at [[48](http://www.healthdata.org/covid)], and world population data [[49](https://www.populationpyramid.net/)].
